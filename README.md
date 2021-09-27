@@ -4,8 +4,7 @@ File structure:
 
   1. THe above notebook consist of feature exploration and analysis and model developemnt process
   2. prediction_test.csv containig the result of test data.
-  3. result.py prints the validation result using saved xgboost model
-  4. xgb_model is the saved model
+  3. xgb_model is the saved model
 
 
 conclusion:
