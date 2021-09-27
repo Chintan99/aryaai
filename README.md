@@ -1,5 +1,7 @@
 # arya.ai
 
+easy access using colab :: https://colab.research.google.com/drive/1diU_3Ue8BCRj3A42TSiUBn9SSh7vzatP?usp=sharing
+
 File structure:
 
   1. THe above notebook consist of feature exploration and analysis and model developemnt process
